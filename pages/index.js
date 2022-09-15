@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="沖縄潜水俱楽部" />
         <p className="description">
-         Coming Soon! <code>pages/index.js</code>
+         Coming Soon! 工事中！<code>~敬请期待~</code>
         </p>
       </main>
 
